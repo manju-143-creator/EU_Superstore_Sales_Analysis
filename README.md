@@ -1,6 +1,6 @@
 # EU_Superstore_Sales_Analysis
  ## Data
- [Data](Data/EU Superstore Data set.xlsx)
+ [Data]([Data/EU Superstore Data set.xlsx)]
  ## pbix file
  [EU_Superstore file](PowerBI_File/EU_Superstore.pbix)
  ## PPT Slides
