@@ -1,6 +1,6 @@
 # EU_Superstore_Sales_Analysis
- ## Data
- ([Data/EU Superstore Data set.xlsx]](https://github.com/manju-143-creator/EU_Superstore_Sales_Analysis/blob/main/Data/EU%20Superstore%20Data%20set.xlsx)
+ ## Data[
+ ([Data/EU Superstore Data set.xlsx]](https://github.com/manju-143-creator/EU_Superstore_Sales_Analysis/blob/main/Data/EU%20Superstore%20Data%20set.xlsx)](https://github.com/manju-143-creator/EU_Superstore_Sales_Analysis/blob/main/Data/EU%20Superstore%20Data%20set.xlsx)
  ## pbix file
  [EU_Superstore file](PowerBI_File/EU_Superstore.pbix)
  ## PPT Slides
